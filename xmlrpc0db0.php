@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://designer1.zarin.solutions</homePageLink>
+		<homePageLink>https://bilalganjautoparts.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://designer1.zarin.solutions/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://designer1.zarin.solutions/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://designer1.zarin.solutions/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://designer1.zarin.solutions/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://designer1.zarin.solutions/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://bilalganjautoparts.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://bilalganjautoparts.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://bilalganjautoparts.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://bilalganjautoparts.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://bilalganjautoparts.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
